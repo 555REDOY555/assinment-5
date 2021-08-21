@@ -1,0 +1,13 @@
+#message{
+     position: relative;
+     top: 10px;
+     color:green;
+   }
+ #err{
+     position: relative;
+     top: 10px;
+     color:red;
+}
+#usernameError{
+     float: left;
+}
